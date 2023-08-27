@@ -97,7 +97,7 @@ function thisCode()
         local CoreGui = game:GetService("StarterGui")
         CoreGui:SetCore("SendNotification", {
             Title = "Farm Chest blox fruit",
-            Text = "This Script By reetfeed",
+            Text = "This Script By SirenStore",
             Duration = math.huge,
             Callback = AllowRunServiceBind,
             Button1 = "Enable",
